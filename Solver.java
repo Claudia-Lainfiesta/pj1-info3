@@ -3,6 +3,7 @@
     public String[] solve(Maze maze)
     pero es libre de crear otros metodos y clases en este u otro archivo que desee.
 */
+//Prueba colaborador
 public class Solver{
 
     public Solver(){
