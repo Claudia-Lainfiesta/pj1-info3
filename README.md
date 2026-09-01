@@ -20,4 +20,4 @@ Un resolvedor de laberintos desarrollado en Java que utiliza algoritmos de búsq
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/java-maze-solver.git](https://github.com/Claudia-Lainfiesta/java-maze-solver.git)
+   git clone https://github.com/Claudia-Lainfiesta/java-maze-solver.git
